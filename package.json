@@ -1,0 +1,16 @@
+{
+  "name": "ilovemycity-ejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
